@@ -12,9 +12,9 @@
  5. O site react será direcionado para a porta localhost:3000 no qual você conseguirá acessar a aplicação
 ## Páginas do site
 
-**Home**
+### Home
 ![Home page da aplicação](https://github.com/Erickson-Eng/NLW-5_Reactjs/blob/main/public/to_readme/home.png)
-**Informações sobre o podcast**
+### Informações sobre o podcast
 ![Página com criação dinâmica](https://github.com/Erickson-Eng/NLW-5_Reactjs/blob/main/public/to_readme/Pagina%20dinamica.png)
-**Player em execução**
+### Midia player em execução
 ![Tocando o podcast](https://github.com/Erickson-Eng/NLW-5_Reactjs/blob/main/public/to_readme/Podcast%20tocando.png)
