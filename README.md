@@ -1,8 +1,5 @@
 # Projeto Podcast website com React
 
-Altere!
-
-
 *Este projeto é o protótipo de um website para podcast no qual foi utilizado next e react*
 ##### Para iniciar o projeto é necessario você possuir em sua máquina local instalado o gerenciador npm e yarn
 ## Passos para iniciar o projeto
